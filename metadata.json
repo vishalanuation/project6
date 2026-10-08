@@ -1,0 +1,6 @@
+{
+  "name": "NRS Consulting Freight Forwarding Solution",
+  "description": "End-to-End Freight Forwarding Management & Cloud ERP for Freight Forwarders, NVOCCs, 3PLs and 4PLs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
